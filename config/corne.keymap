@@ -53,7 +53,7 @@
    &none  &kp CAPS    &kp LNLCK &none    &none    &kp TILDE2 &kp UNDER &kp PLUS  &kp LBRC  &kp RBRC &kp PIPE &kp TILDE
                              &trans   &trans   &trans     &trans    &trans    &trans
                         >;
-                }
+                };
 		F1_numpad_layer {
 // -----------------------------------------------------------------------------------------
 // |    | F1  | F2  | F3  | F4  | F5  |   |  +  |  7  |  8  |  9  |  -  |      |

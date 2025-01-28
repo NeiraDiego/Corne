@@ -51,7 +51,7 @@
                         bindings = <
    &trans &kp EXCL &kp AT &kp HASH &kp DLLR &kp PRCNT  &kp CARET &kp AMPS  &kp ASTRK &kp LPAR &kp RPAR &trans
    &none  &none    &none  &none     &none   &trans     &kp MINUS &kp EQUAL &kp LBKT  &kp RBKT &kp BSLH &kp GRAVE
-   &none  &CAPS    &LNLCK &none     &none   &TILDE2    &kp UNDER &kp PLUS  &kp LBRC  &kp RBRC &kp PIPE &kp TILDE
+   &none  &CAPS    &KP_NUMLOCK &none     &none   &TILDE2    &kp UNDER &kp PLUS  &kp LBRC  &kp RBRC &kp PIPE &kp TILDE
                           &trans    &trans  &trans     &trans    &trans    &trans
                         >;
 		F1_numpad_layer {

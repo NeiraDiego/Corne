@@ -48,10 +48,10 @@
 // |    | CAPS |NUM LK| XXX | XXX | XXX |   |  _  |  +  |  {  |  }  | "|" |  ~   |
 //                    |     |     |     |   |     |     |     |
                         bindings = <
-   &trans &kp EXCL &kp AT    &kp HASH &kp DLLR &kp PRCNT  &kp CARET &kp AMPS  &kp ASTRK &kp LPAR &kp RPAR &trans
-   &none  &none    &none     &none    &none    &trans     &kp MINUS &kp EQUAL &kp LBKT  &kp RBKT &kp BSLH &kp GRAVE
-   &none  &kp CAPS    &kp LNLCK &none    &none    &kp TILDE2 &kp UNDER &kp PLUS  &kp LBRC  &kp RBRC &kp PIPE &kp TILDE
-                             &trans   &trans   &trans     &trans    &trans    &trans
+   &trans &kp EXCL  &kp AT      &kp HASH &kp DLLR &kp PRCNT  &kp CARET &kp AMPS  &kp ASTRK &kp LPAR &kp RPAR &trans
+   &none  &none     &none       &none    &none    &trans     &kp MINUS &kp EQUAL &kp LBKT  &kp RBKT &kp BSLH &kp GRAVE
+   &none  &kp CAPS  &kp KP_NUM  &none    &none    &kp TILDE2 &kp UNDER &kp PLUS  &kp LBRC  &kp RBRC &kp PIPE &kp TILDE
+                                &trans   &trans   &trans     &trans    &trans    &trans
                         >;
                 };
 		FUNC {
